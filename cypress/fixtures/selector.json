@@ -1,0 +1,20 @@
+{ 
+    "user_name": "#login-email",
+    
+    "pass_word": "[id='standard-password']",
+    
+    "login_button": ".MuiButton-root",
+    
+    "app_drodown":"#custom-dropdown-select",
+    
+    "applist":"//*[@id='menu-']/div[3]/ul/li",
+    
+    "selected_app":"//*[@id='menu-']/div[3]/ul/li",
+
+    "Appmanger":"//*[@id='root']/div[1]/div/div[1]/div[2]",
+
+    "Gamification":"//*[@id='panel1bh-content']/div/a[5]/div[2]",
+
+    "Createhighlight":"Create Highlight"
+}
+  

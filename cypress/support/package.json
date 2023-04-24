@@ -1,0 +1,14 @@
+{
+  "name": "support",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "commands.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "uma",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.15.11"
+  }
+}

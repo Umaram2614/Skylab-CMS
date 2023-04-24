@@ -1,0 +1,31 @@
+{
+  "name": "skylab-cms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx cypress open",
+    "runHeadless": "./node_modules/.bin/cypress run --headless"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^4.3.0",
+    "node": "^19.8.1",
+    "read-excel-file": "^5.6.1",
+    "type": "module",
+    "typescript": "^5.0.3",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@cypress/code-coverage": "^3.10.4",
+    "@tsconfig/cypress": "^1.0.1",
+    "@types/node": "^18.15.11",
+    "cypress": "^12.10.0",
+    "cypress-mochawesome-reporter": "^3.3.0",
+    "cypress-xpath": "^2.0.1",
+    "eslint": "^8.38.0"
+  },
+  "description": "test"
+}
